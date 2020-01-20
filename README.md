@@ -8,7 +8,7 @@
 - 增加`返回顶部`按钮
 - 其他细节修改
 
-## HwLogging
+## [HwLogging](https://github.com/hongweifuture/HwTTK/tree/master/HwLogging)
 - logging模块是Python的标准库
 - logging根据日志级别记录日志
 - HwLogging支持自定义日志等级输出，控制台、文件可分别配置
