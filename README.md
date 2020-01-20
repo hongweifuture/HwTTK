@@ -8,4 +8,12 @@
 - 增加`返回顶部`按钮
 - 其他细节修改
 
-## 
+## HwLogging
+- logging模块是Python的标准库
+- logging根据日志级别记录日志
+- HwLogging支持自定义日志等级输出，控制台、文件可分别配置
+- HwLogging支持自定义输出位置，控制台、文件或都有
+- HwLogging支持自定义输出文件目录
+- HwLogging支持设置日志大小，自动分割
+- HwLogging支持配置文件参数化配置
+- HwLogging支持`Python2`和`Python3`
