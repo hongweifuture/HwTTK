@@ -1,7 +1,3 @@
-2019-09-30 16:17:48,638  - HwLoggingTest.py : INFO  logger info message 打印
-2019-09-30 16:17:48,638  - HwLoggingTest.py : WARNING  logger warning message 打印
-2019-09-30 16:17:48,639  - HwLoggingTest.py : ERROR  logger error message 打印
-2019-09-30 16:17:48,639  - HwLoggingTest.py : CRITICAL  logger critical message 打印
 2019-09-30 16:17:50,498  - HwLoggingTest.py : INFO  logger info message 打印
 2019-09-30 16:17:50,499  - HwLoggingTest.py : WARNING  logger warning message 打印
 2019-09-30 16:17:50,499  - HwLoggingTest.py : ERROR  logger error message 打印
