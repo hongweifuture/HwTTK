@@ -1,3 +1,5 @@
+> 基于`Python`的日志模块封装
+
 # 说明
 - logging模块是Python的标准库
 - logging根据日志级别记录日志
@@ -11,7 +13,7 @@
 > 当前使用`configparser`模块进行参数配置，无需下载依赖包，若使用`yaml`或`json`，请自行修改
 
 # 使用
-```
+```python
 python HwLoggingTest.py
 ```
 - HwLoggingPy2 支持Python2
